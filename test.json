@@ -1,0 +1,72 @@
+[
+    {
+        "question_id": 1,
+        "question": "Is this photo a deepfake?",
+        "answer": ["No"],
+        "image": "test/real/image_505.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 2,
+        "question": "Is this photo a deepfake?",
+        "answer": ["No"],
+        "image": "test/real/image_537.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 3,
+        "question": "Is this photo a deepfake?",
+        "answer": ["No"],
+        "image": "test/real/image_539.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 4,
+        "question": "Is this photo a deepfake?",
+        "answer": ["No"],
+        "image": "test/real/image_542.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 5,
+        "question": "Is this photo a deepfake?",
+        "answer": ["No"],
+        "image": "test/real/image_553.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 6,
+        "question": "Is this photo a deepfake?",
+        "answer": ["Yes"],
+        "image": "test/fake/image_1877.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 7,
+        "question": "Is this photo a deepfake?",
+        "answer": ["Yes"],
+        "image": "test/fake/image_1914.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 8,
+        "question": "Is this photo a deepfake?",
+        "answer": ["Yes"],
+        "image": "test/fake/image_1933.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 9,
+        "question": "Is this photo a deepfake?",
+        "answer": ["Yes"],
+        "image": "test/fake/image_1946.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 10,
+        "question": "Is this photo a deepfake?",
+        "answer": ["Yes"],
+        "image": "test/fake/image_1961.jpg",
+        "dataset": "vqa"
+    }
+]
