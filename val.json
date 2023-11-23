@@ -1,0 +1,86 @@
+[
+    {
+        "question_id": 1,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "No",
+        "image": "test/real/image_505.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 2,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "No",
+        "image": "test/real/image_537.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 3,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "No",
+        "image": "val/real/image_16.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 4,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "No",
+        "image": "val/real/image_28.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 5,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "No",
+        "image": "val/real/image_29.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 6,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "No",
+        "image": "val/real/image_2.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 7,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "No",
+        "image": "val/real/image_5.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 8,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "Yes",
+        "image": "val/fake/image_17.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 9,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "Yes",
+        "image": "val/fake/image_20.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 10,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "Yes",
+        "image": "val/fake/image_21.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 11,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "Yes",
+        "image": "val/fake/image_27.jpg",
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 12,
+        "text_input": "Is this photo a deepfake?",
+        "text_output": "Yes",
+        "image": "val/fake/image_29.jpg",
+        "dataset": "vqa"
+    }
+]
